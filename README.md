@@ -1,1 +1,1 @@
-# tech_A_Intern
+This respo is created by Natnael Abnew Werku for the submition of tech A intern python programing internship.
